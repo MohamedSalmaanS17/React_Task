@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Task/static/css/main.79d19d76.css",
+    "main.js": "/React_Task/static/js/main.c554c690.js",
+    "static/media/Pizza.jpg": "/React_Task/static/media/Pizza.0edc2f78caca146e9e4d.jpg",
+    "static/media/Burger.jpg": "/React_Task/static/media/Burger.1ae3cd3591534dbc9720.jpg",
+    "static/media/Biriyani.jpg": "/React_Task/static/media/Biriyani.de1485e1aa06aa052888.jpg",
+    "index.html": "/React_Task/index.html",
+    "main.79d19d76.css.map": "/React_Task/static/css/main.79d19d76.css.map",
+    "main.c554c690.js.map": "/React_Task/static/js/main.c554c690.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.c554c690.js"
+  ]
+}
